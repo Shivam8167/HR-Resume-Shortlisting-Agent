@@ -1,0 +1,15 @@
+We are looking for a Python Developer with experience in:
+
+- Machine Learning
+- NLP
+- FastAPI
+- SQL
+- AI applications
+
+Candidates should have:
+
+- Strong problem solving skills
+- Experience with AI projects
+- Good communication skills
+- Bachelor's degree in Computer Science
+- Relevant AI/ML certifications preferred
